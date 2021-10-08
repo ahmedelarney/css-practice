@@ -1,0 +1,27 @@
+*{
+ margin: 0px;
+}
+.ffff{
+height: 100px;
+width: 100%;
+    
+}
+.line{
+    font-size:xx-large;
+    color: blue;
+    background-color:rgb(38, 204, 74);
+    
+    line-height: 100px;
+    text-decoration: none;
+    padding: 0 15px;
+    display: inline-block;
+    pa
+}
+.aaaa{
+    margin-left: 0px;
+}
+.line:hover{ 
+     background-color: yellow;
+
+
+}
